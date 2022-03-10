@@ -1,0 +1,2 @@
+# HIPERBLOG1
+SE REALIZA VERIFICACION  Y AJUSTE actualizacion readme
